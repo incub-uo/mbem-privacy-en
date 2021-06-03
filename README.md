@@ -1,6 +1,6 @@
 # Mon Bébé et Moi privacy policy
 
-Last updated: June 1, 2021
+Last updated: June 3, 2021
 
 This privacy policy describes our policies and procedures on the collection, use and disclosure of your information when you use the service and informs you of your privacy rights and how the law protects you.
 
@@ -22,7 +22,7 @@ For the purposes of this privacy policy:
 
 * **Application** means the software provided by the Company that You have downloaded to any electronic device, named Mon Bébé et Moi.
 
-* **Incub@UO** (referred to as "We", "Our" or "Our" in this Agreement) refers to Incub@UO, Joseph Ki-Zerbo University, Ouagadougou, Burkina Faso.
+* **Incub@UO** (referred to as "We" or "Our" in this Agreement) refers to Incub@UO, Joseph Ki-Zerbo University, Ouagadougou, Burkina Faso.
 
 * **Country** refers to: Burkina Faso
 
@@ -44,7 +44,7 @@ For the purposes of this privacy policy:
 
 #### Personal data
 
-When using our service, we may ask you to provide us with certain personally identifiable information that cannot be used to contact or identify you. Personally identifiable information includes:
+When using our service, we may ask you to provide us with some private information that cannot be used to contact or identify you. Personally identifiable information includes:
 
 * **The date of your last period**;
 
@@ -58,7 +58,7 @@ No data is collected automatically.
 
 ### Use of your personal data
 
-Incub @ UO through this application has no access to the data provided because it (the data) is stored in your device. The data provided (as mentioned above) are only used to calculate the  **probable** date of delivery and generate a provisional calendar for post and prenatal visits. The dates of post and prenatal visits are stored in the calendar or diary application of your device if you accept its use, otherwise they are not stored. Incub @ UO strongly recommends that you follow your doctor's advice. This application can in no way replace a doctor.
+Incub@UO through this application has no access to the data provided because it (the data) is stored in your device. The data provided (as mentioned above) are only used to calculate the  **probable** date of delivery and generate a provisional calendar for post and prenatal visits. The dates of post and prenatal visits are stored in the calendar or diary application of your device if you accept its use, otherwise they are not stored. Incub@UO strongly recommends that you follow your doctor's advice. This application can in no way replace a doctor.
 
 ### Retention of your personal data
 
@@ -70,7 +70,7 @@ The app does not transfer your data.
 
 ### Disclosure of your personal data
 
-Your personal data is stored on your device and Incub @ UO cannot access it. Incub@UO cannot disclose your personal data.
+Your personal data is stored on your device and Incub@UO cannot access it. Incub@UO cannot disclose your personal data.
 
 ### Security of your personal data
 
