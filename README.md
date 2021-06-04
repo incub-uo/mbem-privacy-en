@@ -1,6 +1,6 @@
 # Mon Bébé et Moi privacy policy
 
-Last updated: June 3, 2021
+Last updated: June 03, 2021
 
 This privacy policy describes our policies and procedures on the collection, use and disclosure of your information when you use the service and informs you of your privacy rights and how the law protects you.
 
@@ -93,6 +93,12 @@ We may update our privacy policy from time to time. We will notify you of any ch
 We will notify you by a visible notice on our service, before the change becomes effective, and we will update the "last updated" date at the top of this privacy policy.
 
 You are advised to periodically review this privacy policy for any changes. Changes to this privacy policy are effective when posted on this page.
+
+## Covid-19
+
+The application contains a section that deals with the health of the pregnant woman, mother and child in this period of the pandemic to COVID-19.
+This application is not specifically dedicated to the fight against this pandemic.
+We do not collect or process any data to support COVID-19 related efforts or epidemiological research.
 
 ## Contact us
 
